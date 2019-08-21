@@ -1,0 +1,24 @@
+body {
+    background-color: lightslategray;
+
+}
+ul {
+    border-style: groove;
+    border: 2.5px solid powderblue;
+    padding: 20px;
+    font-size: 12pt;
+    
+}
+ol {
+    border-style: groove;
+    border: 2.5px solid powderblue;
+    padding: 20px;
+    font-size: 12pt;
+}
+img{ width: 500px;
+    height: auto;
+
+}
+    
+
+
